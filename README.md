@@ -31,45 +31,10 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 <a href="https://github.com/Pulkit-debug/Pulkit-debug/tree/main/socials/instagram.png" target="blank"><img align="center" src="" alt="" height="30" /></a>
 
 
-<!-- TODO add in the rest of the URLs here -->
-### I'm a gamer too, so you might find me on:
-<a href="https://discordapp.com/invite/f4NFzFt" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/discord.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/ESO.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Epic.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/LoL.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Battlenet.png" height="30" /></a>
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Xbox.png" height="30" /></a> 
-<a href=" " target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PS.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/PoGo.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Shadowverse.png" height="30" /></a> 
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Steam.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/Switch.png" height="30" /></a>
-<a href="" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/Game%20Icons/arena.png" height="30" /></a>
-
-### I'm listening to:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a52oj3e5hnylnh2ua2e6loy&cover_image=true&theme=novatorem&bar_color=24b6f5&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-<!--
-- [Twitter](http://twitter.com/MishManners) :bird:
-- [Instagram](http://instagram.com/mishmanners) 📸
-- [Twitch](http://twitch.tv/MishManners) 📺 
-- [LinkedIn](http://linkedin.com/in/mishmanners) 👩‍💻
-- [YouTube](http://youtube.com/c/MishManners) 📽 
-- [MishManners®™ website](http://mishmanners.com) 🌐 
-- [Hackathon Queen®™ blog](https://hackathongoddess.wordpress.com/) 🌐
--->
-
-### Watch, read, and catch up on content:
-- [GitHub blog articles](https://github.blog/author/mishmanners/) :books:
-- [Esports articles on Upcomer](https://www.upcomer.com/author/michelle-mannering/) 🕹️ formely [Daily Esports](https://www.dailyesports.gg/author/michelle/)
-- [Gaming articles on DoubleXP](https://doublexp.com/author/michelle-mannering) 🎮 formerly Gamepur
-- [Tech reviews on TechAU](https://techau.com.au/author/mmannering/) 🖥️
-- [Blog posts on DEV](https://dev.to/mishmanners) ✍️
-- [Blog posts on Codenewbies](https://community.codenewbie.org/mishmanners) 💽
-- [Past Twitch streams](https://www.twitch.tv/mishmanners/videos?filter=highlights&sort=time) 🎥
-- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) 📣
-- [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
-- [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
+### My Content on Web.
+- [Applying Machine Learning on DevOps Industry based project](https://www.linkedin.com/pulse/applying-machine-learning-devops-real-industry-based-project-verma?trk=public_profile_article_view)
+- [Celeb Recognition classifier using Transfer Learning](https://www.linkedin.com/pulse/using-mobilenet-make-celeb-recognition-classifier-transfer-verma?trk=public_profile_article_view)
+- [Integration of Git + Jenkins + Docker](https://www.linkedin.com/pulse/git-github-jenkins-docker-pulkit-verma?trk=public_profile_article_view)
 
 <img align="right" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
 ### Some Fun Facts about me:
