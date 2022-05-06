@@ -27,7 +27,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 <p align="left">
 <!-- <a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a> -->
-<a href="https://in.linkedin.com/in/pulkit-verma-261852198" target="blank"><img align="center" src="https://github.com/Pulkit-debug/Pulkit-debug/tree/main/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
+<a href="https://in.linkedin.com/in/pulkit-verma-261852198" target="blank"><img align="center" src="https://github.com/Pulkit-debug/Pulkit-debug/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
 <a href="https://github.com/Pulkit-debug/Pulkit-debug/tree/main/socials/instagram.png" target="blank"><img align="center" src="" alt="" height="30" /></a>
 
 
