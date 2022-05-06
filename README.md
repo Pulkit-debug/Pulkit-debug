@@ -16,31 +16,20 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 Hey everyone, I'm MishManners®™ AKA the Hackathon Queen®™ 👋
+## 👋 Hey everyone, I'm Pulkit "Geek by Heart.™ 👋
 
-<!--
-**MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
-
-<!-- <img src=""> this is another way you can add in images -->
-
-![](https://github.com/MishManners/MishManners/blob/master/MishManners%20Room%20animated.gif)
 
 Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event, speaking on stage, or find me on a live stream instead!
 
-<!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 
-### Find me all around the web:
+
+### Find me around the web:
 
 <p align="left">
-<a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a>
-<a href="http://linkedin.com/in/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png" alt="" height="30" /></a>
-<a href="http://instagram.com/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/instagram.png" alt="" height="30" /></a>
-<a href="http://twitch.tv/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitch.png" alt="" height="30" /></a>
-<a href="http://youtube.com/c/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/youtube.png" alt="" height="30" /></a>
-<a href="http://mishmanners.com" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://hackathongoddess.wordpress.com/" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/chrome.png" alt="" height="30" /></a>
-<a href="https://dev.to/mishmanners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/devto.png" alt="" height="30" /></a>
-</p>
+<!-- <a href="http://twitter.com/MishManners" target="blank"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/twitter%20(2).png" title = "Twitter" alt="" height="30" /></a> -->
+<a href="https://in.linkedin.com/in/pulkit-verma-261852198" target="blank"><img align="center" src="data:image/png;base64,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" alt="" height="30" /></a>
+<a href="" target="blank"><img align="center" src="" alt="" height="30" /></a>
+
 
 <!-- TODO add in the rest of the URLs here -->
 ### I'm a gamer too, so you might find me on:
